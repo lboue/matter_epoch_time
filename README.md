@@ -14,6 +14,10 @@ Note that it uses Epoch_s (which is from Jan 1 2000) which is a uint32_t in seco
 
 <img width="1522" height="402" alt="image" src="https://github.com/user-attachments/assets/6de86933-a629-4017-8e6d-8636a037520c" />
 
+- [EnergyEVSE.xml#L287-L298](https://github.com/project-chip/connectedhomeip/blob/0c656d27da6fecd7c15bba7d7eea77b60cb79a03/data_model/1.4.2/clusters/EnergyEVSE.xml#L287-L298)
+- [ElectricalPowerMeasurement.xml#L145-L168](https://github.com/project-chip/connectedhomeip/blob/0c656d27da6fecd7c15bba7d7eea77b60cb79a03/data_model/1.4.2/clusters/ElectricalPowerMeasurement.xml#L145-L168)
+
+
 ### Epoch_us
 
 ## Examples
