@@ -26,8 +26,14 @@ https://github.com/search?q=repo%3Aproject-chip%2Fconnectedhomeip+path%3A%2F%5Ed
 **List**
 https://github.com/search?q=repo%3Aproject-chip%2Fconnectedhomeip+path%3A%2F%5Edata_model%5C%2F1%5C.4%5C.2%5C%2F%2F+type%3D%22epoch-us%22%3E&type=code
 
-<img width="1492" height="190" alt="image" src="https://github.com/user-attachments/assets/05bc2992-0422-4fa1-874b-f4448a75910e" />
+- data_model/1.4.2/clusters/TimeSync.xml
+- data_model/1.4.2/clusters/Group-Key-Management-Cluster.xml
+- data_model/1.4.2/clusters/DiagnosticLogsCluster.xml
+- data_model/1.4.2/clusters/ValveConfigurationControl.xml
+- data_model/1.4.2/clusters/MediaPlayback.xml
+- data_model/1.4.2/clusters/JointFabricDatastoreCluster.xml
 
+<img width="1492" height="190" alt="image" src="https://github.com/user-attachments/assets/05bc2992-0422-4fa1-874b-f4448a75910e" />
 
 ## Examples
 
